@@ -1,0 +1,13 @@
+.we-header{
+  color: white;
+  font-size: large;
+  background-color: gray;
+}
+.we-main{
+}
+.we{
+    padding: 20px;
+    font-stretch: ultra-expanded;
+    font-family: monospace;
+    font-size: medium;
+}
